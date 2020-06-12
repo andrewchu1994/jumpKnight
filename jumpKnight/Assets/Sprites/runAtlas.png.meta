@@ -1,0 +1,135 @@
+fileFormatVersion: 2
+guid: ed62747188f2d0444abb3c5b7f8f6498
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: runAtlas_0
+    21300002: runAtlas_1
+    21300004: runAtlas_2
+    21300006: runAtlas_3
+    21300008: runAtlas_4
+    21300010: runAtlas_5
+    21300012: runAtlas_6
+    21300014: runAtlas_7
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 140
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: runAtlas_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1290
+        width: 735
+        height: 510
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: runAtlas_1
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 1290
+        width: 735
+        height: 510
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: runAtlas_2
+      rect:
+        serializedVersion: 2
+        x: 1470
+        y: 1290
+        width: 735
+        height: 510
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: runAtlas_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 780
+        width: 735
+        height: 510
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: runAtlas_4
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 780
+        width: 735
+        height: 510
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: runAtlas_5
+      rect:
+        serializedVersion: 2
+        x: 1470
+        y: 780
+        width: 735
+        height: 510
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: runAtlas_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 270
+        width: 735
+        height: 510
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: runAtlas_7
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 270
+        width: 735
+        height: 510
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

@@ -1,0 +1,214 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>10.0.20506</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <RootNamespace></RootNamespace>
+    <ProjectGuid>{B47AF295-AF9C-E5EB-7785-F8070108389E}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <AssemblyName>Assembly-CSharp</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <BaseDirectory>Assets</BaseDirectory>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>Temp\bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE;UNITY_5_3_OR_NEWER;UNITY_5_4_OR_NEWER;UNITY_5_5_OR_NEWER;UNITY_5_6_OR_NEWER;UNITY_5_6_0;UNITY_5_6;UNITY_5;ENABLE_AUDIO;ENABLE_CACHING;ENABLE_CLOTH;ENABLE_GENERICS;ENABLE_PVR_GI;ENABLE_MICROPHONE;ENABLE_MULTIPLE_DISPLAYS;ENABLE_PHYSICS;ENABLE_RUNTIME_NAVMESH_BUILDING;ENABLE_SPRITERENDERER_FLIPPING;ENABLE_SPRITES;ENABLE_TERRAIN;ENABLE_RAKNET;ENABLE_UNET;ENABLE_LZMA;ENABLE_UNITYEVENTS;ENABLE_WEBCAM;ENABLE_WWW;ENABLE_CLOUD_SERVICES_COLLAB;ENABLE_CLOUD_SERVICES_ADS;ENABLE_CLOUD_HUB;ENABLE_CLOUD_PROJECT_ID;ENABLE_CLOUD_SERVICES_UNET;ENABLE_CLOUD_SERVICES_BUILD;ENABLE_CLOUD_LICENSE;ENABLE_EDITOR_METRICS;ENABLE_EDITOR_METRICS_CACHING;ENABLE_NATIVE_ARRAY;INCLUDE_DYNAMIC_GI;INCLUDE_GI;PLATFORM_SUPPORTS_MONO;INCLUDE_PUBNUB;ENABLE_PLAYMODE_TESTS_RUNNER;ENABLE_SCRIPTING_NEW_CSHARP_COMPILER;ENABLE_VIDEO;UNITY_ANDROID;ENABLE_SUBSTANCE;UNITY_ANDROID_API;ENABLE_EGL;ENABLE_NETWORK;ENABLE_RUNTIME_GI;ENABLE_CRUNCH_TEXTURE_COMPRESSION;ENABLE_UNITYWEBREQUEST;ENABLE_CLOUD_SERVICES;ENABLE_CLOUD_SERVICES_ANALYTICS;ENABLE_CLOUD_SERVICES_PURCHASING;ENABLE_CLOUD_SERVICES_CRASH_REPORTING;PLATFORM_SUPPORTS_ADS_ID;UNITY_CAN_SHOW_SPLASH_SCREEN;ENABLE_VR;ENABLE_UNITYADS_RUNTIME;UNITY_UNITYADS_API;ENABLE_MONO;NET_2_0_SUBSET;ENABLE_PROFILER;UNITY_ASSERTIONS;UNITY_EDITOR;UNITY_EDITOR_64;UNITY_EDITOR_WIN;ENABLE_NATIVE_ARRAY_CHECKS;CROSS_PLATFORM_INPUT;MOBILE_INPUT;UNITY_HAS_GOOGLEVR</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <NoWarn>0169</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>Temp\bin\Release\</OutputPath>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <NoWarn>0169</NoWarn>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.XML" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="UnityEngine">
+      <HintPath>A:/Program Files/Unity/Editor/Data/Managed/UnityEngine.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEditor">
+      <HintPath>A:/Program Files/Unity/Editor/Data/Managed/UnityEditor.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+     <Compile Include="Assets\Scripts\AspectUtility.cs" />
+     <Compile Include="Assets\Scripts\Blocks.cs" />
+     <Compile Include="Assets\Scripts\CameraRunner.cs" />
+     <Compile Include="Assets\Scripts\DownStateButton.cs" />
+     <Compile Include="Assets\Scripts\Functions.cs" />
+     <Compile Include="Assets\Scripts\GlobalState.cs" />
+     <Compile Include="Assets\Scripts\KnightControlScript.cs" />
+     <Compile Include="Assets\Scripts\MovingBackground.cs" />
+     <Compile Include="Assets\Scripts\PointerListener.cs" />
+     <Compile Include="Assets\Scripts\ScrollSnapRect.cs" />
+     <Compile Include="Assets\Scripts\SpawnScript.cs" />
+     <Compile Include="Assets\Scripts\androidBack.cs" />
+     <Compile Include="Assets\Scripts\androidBackToTitle.cs" />
+     <Compile Include="Assets\Scripts\axeSpin.cs" />
+     <Compile Include="Assets\Scripts\backToLevel1Selection.cs" />
+     <Compile Include="Assets\Scripts\classicSign.cs" />
+     <Compile Include="Assets\Scripts\clearPlayerPref.cs" />
+     <Compile Include="Assets\Scripts\completedLevel\completedLevel.cs" />
+     <Compile Include="Assets\Scripts\completedLevel\completedLevel13.cs" />
+     <Compile Include="Assets\Scripts\completedLevel\completedLevel14.cs" />
+     <Compile Include="Assets\Scripts\completedLevel\completedLevel21.cs" />
+     <Compile Include="Assets\Scripts\completedLevel\completedLevel22.cs" />
+     <Compile Include="Assets\Scripts\completedLevel\completedLevel23.cs" />
+     <Compile Include="Assets\Scripts\disablePanel.cs" />
+     <Compile Include="Assets\Scripts\displayTip.cs" />
+     <Compile Include="Assets\Scripts\dontDestroy.cs" />
+     <Compile Include="Assets\Scripts\downL.cs" />
+     <Compile Include="Assets\Scripts\downRight.cs" />
+     <Compile Include="Assets\Scripts\dragLeft.cs" />
+     <Compile Include="Assets\Scripts\dragRight.cs" />
+     <Compile Include="Assets\Scripts\endScreenAppear.cs" />
+     <Compile Include="Assets\Scripts\fadeScene.cs" />
+     <Compile Include="Assets\Scripts\fallingObject.cs" />
+     <Compile Include="Assets\Scripts\gameOverPanel.cs" />
+     <Compile Include="Assets\Scripts\gameOverStopper.cs" />
+     <Compile Include="Assets\Scripts\goToLevel1Selection.cs" />
+     <Compile Include="Assets\Scripts\halfSpin.cs" />
+     <Compile Include="Assets\Scripts\jump.cs" />
+     <Compile Include="Assets\Scripts\level1KnightSelected.cs" />
+     <Compile Include="Assets\Scripts\level2KnightSelected.cs" />
+     <Compile Include="Assets\Scripts\levelGenerator.cs" />
+     <Compile Include="Assets\Scripts\loadCastleDemo.cs" />
+     <Compile Include="Assets\Scripts\loadDemoSelection.cs" />
+     <Compile Include="Assets\Scripts\loadLevel1.cs" />
+     <Compile Include="Assets\Scripts\loadLevel2.cs" />
+     <Compile Include="Assets\Scripts\loadLevel3.cs" />
+     <Compile Include="Assets\Scripts\loadTy.cs" />
+     <Compile Include="Assets\Scripts\loadWingDemo.cs" />
+     <Compile Include="Assets\Scripts\menuButton1.cs" />
+     <Compile Include="Assets\Scripts\nextLevelNoAnimLv22.cs" />
+     <Compile Include="Assets\Scripts\nextLevelNoAnimLv23.cs" />
+     <Compile Include="Assets\Scripts\nextLevelScript.cs" />
+     <Compile Include="Assets\Scripts\nextLevelScriptLv12.cs" />
+     <Compile Include="Assets\Scripts\nextLevelScriptLv13.cs" />
+     <Compile Include="Assets\Scripts\openTwitter.cs" />
+     <Compile Include="Assets\Scripts\pathProjectileSpawner.cs" />
+     <Compile Include="Assets\Scripts\pathedProjectile.cs" />
+     <Compile Include="Assets\Scripts\pausedScript.cs" />
+     <Compile Include="Assets\Scripts\projDestroy.cs" />
+     <Compile Include="Assets\Scripts\projShooters\projShooter.cs" />
+     <Compile Include="Assets\Scripts\projShooters\projShooter10.cs" />
+     <Compile Include="Assets\Scripts\projShooters\projShooter11.cs" />
+     <Compile Include="Assets\Scripts\projShooters\projShooter12.cs" />
+     <Compile Include="Assets\Scripts\projShooters\projShooter13.cs" />
+     <Compile Include="Assets\Scripts\projShooters\projShooter14.cs" />
+     <Compile Include="Assets\Scripts\projShooters\projShooter15.cs" />
+     <Compile Include="Assets\Scripts\projShooters\projShooter2.cs" />
+     <Compile Include="Assets\Scripts\projShooters\projShooter3.cs" />
+     <Compile Include="Assets\Scripts\projShooters\projShooter6.cs" />
+     <Compile Include="Assets\Scripts\projShooters\projShooter7.cs" />
+     <Compile Include="Assets\Scripts\projShooters\projShooter9.cs" />
+     <Compile Include="Assets\Scripts\projShooters\projshooter4.cs" />
+     <Compile Include="Assets\Scripts\projShooters\projshooter5.cs" />
+     <Compile Include="Assets\Scripts\projShooters\projshooter8.cs" />
+     <Compile Include="Assets\Scripts\rainKiller.cs" />
+     <Compile Include="Assets\Scripts\resetScript.cs" />
+     <Compile Include="Assets\Scripts\reversalScript.cs" />
+     <Compile Include="Assets\Scripts\rotation45.cs" />
+     <Compile Include="Assets\Scripts\scoreCalc.cs" />
+     <Compile Include="Assets\Scripts\scoreCalc2.cs" />
+     <Compile Include="Assets\Scripts\scoreCalc3.cs" />
+     <Compile Include="Assets\Scripts\screenAutoRotate.cs" />
+     <Compile Include="Assets\Scripts\selectCastleDemo.cs" />
+     <Compile Include="Assets\Scripts\selectWingDemo.cs" />
+     <Compile Include="Assets\Scripts\sideToSide2.cs" />
+     <Compile Include="Assets\Scripts\sideToSideObject.cs" />
+     <Compile Include="Assets\Scripts\spawnBeg3.cs" />
+     <Compile Include="Assets\Scripts\spawnGameOver.cs" />
+     <Compile Include="Assets\Scripts\spinX.cs" />
+     <Compile Include="Assets\Scripts\spinning.cs" />
+     <Compile Include="Assets\Scripts\summon.cs" />
+     <Compile Include="Assets\Scripts\summon2.cs" />
+     <Compile Include="Assets\Scripts\summon3.cs" />
+     <Compile Include="Assets\Scripts\summon4.cs" />
+     <Compile Include="Assets\Scripts\titleScreen.cs" />
+     <Compile Include="Assets\Scripts\toCreditsPage.cs" />
+     <Compile Include="Assets\Scripts\touchControls.cs" />
+     <Compile Include="Assets\Scripts\upAndDownScript.cs" />
+     <Compile Include="Assets\Scripts\wing\FollowPath.cs" />
+     <Compile Include="Assets\Scripts\wing\PathDefinition.cs" />
+     <Compile Include="Assets\Scripts\wing\blockSummon.cs" />
+     <Compile Include="Assets\Scripts\wing\camera.cs" />
+     <Compile Include="Assets\Scripts\wing\cameraChanger.cs" />
+     <Compile Include="Assets\Scripts\wing\cloudOpacity.cs" />
+     <Compile Include="Assets\Scripts\wing\loadCastle.cs" />
+     <Compile Include="Assets\Scripts\wing\loadLevel1wing.cs" />
+     <Compile Include="Assets\Scripts\wing\loadLevel2Wing.cs" />
+     <Compile Include="Assets\Scripts\wing\loadLevel3Wing.cs" />
+     <Compile Include="Assets\Scripts\wing\loadWing.cs" />
+     <Compile Include="Assets\Scripts\wing\negParallax.cs" />
+     <Compile Include="Assets\Scripts\wing\nextLevelNoAnim.cs" />
+     <Compile Include="Assets\Scripts\wing\oriLock.cs" />
+     <Compile Include="Assets\Scripts\wing\parallax.cs" />
+     <Compile Include="Assets\Scripts\wing\pathShooter.cs" />
+     <Compile Include="Assets\Scripts\wing\shootUp.cs" />
+     <Compile Include="Assets\Scripts\wing\spriteKiller.cs" />
+     <Compile Include="Assets\Scripts\wing\wingDownL.cs" />
+     <Compile Include="Assets\Scripts\wing\wingDownRight.cs" />
+     <Compile Include="Assets\Scripts\wing\wingDownState.cs" />
+     <Compile Include="Assets\Scripts\wing\wingFunctions.cs" />
+     <Compile Include="Assets\Scripts\wing\wingGlobalState.cs" />
+     <Compile Include="Assets\Scripts\wing\wingKnightController.cs" />
+     <Compile Include="Assets\Scripts\wing\wingPointerListener.cs" />
+     <Compile Include="Assets\Scripts\wing\wingScore1.cs" />
+     <Compile Include="Assets\Scripts\wing\wingScore2.cs" />
+     <Compile Include="Assets\Scripts\wing\wingScore3.cs" />
+     <Compile Include="Assets\Scripts\wing\wingSign.cs" />
+     <Compile Include="Assets\Scripts\wing\wingTouchControls.cs" />
+     <Compile Include="Assets\Scripts\wingGameOverPanel.cs" />
+     <Compile Include="Assets\Scripts\wingGameOverSpawn.cs" />
+     <Compile Include="Assets\portalScript.cs" />
+     <Compile Include="Assets\shootingUpwards.cs" />
+     <Compile Include="Assets\whileJump.cs" />
+     <Compile Include="Assets\whileJumping.cs" />
+ <Reference Include="UnityEngine.UI">
+ <HintPath>A:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.Networking">
+ <HintPath>A:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.TestRunner">
+ <HintPath>A:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/TestRunner/UnityEngine.TestRunner.dll</HintPath>
+ </Reference>
+ <Reference Include="nunit.framework">
+ <HintPath>A:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/TestRunner/nunit.framework.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.Analytics">
+ <HintPath>A:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/UnityAnalytics/UnityEngine.Analytics.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.HoloLens">
+ <HintPath>A:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/UnityHoloLens/RuntimeEditor/UnityEngine.HoloLens.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.VR">
+ <HintPath>A:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/UnityVR/RuntimeEditor/UnityEngine.VR.dll</HintPath>
+ </Reference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+  
+</Project>

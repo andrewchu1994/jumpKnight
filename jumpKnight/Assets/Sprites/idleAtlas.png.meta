@@ -1,0 +1,125 @@
+fileFormatVersion: 2
+guid: 90de4b7104d8f2e49be793cc5ed1764f
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: idleAtlas_0
+    21300002: idleAtlas_1
+    21300004: idleAtlas_2
+    21300006: idleAtlas_3
+    21300008: idleAtlas_4
+    21300010: idleAtlas_5
+    21300012: idleAtlas_6
+    21300014: idleAtlas_7
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 140
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: idleAtlas_0
+      rect:
+        serializedVersion: 2
+        x: 1375
+        y: 470
+        width: 10
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: idleAtlas_1
+      rect:
+        serializedVersion: 2
+        x: 1330
+        y: 440
+        width: 20
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: idleAtlas_2
+      rect:
+        serializedVersion: 2
+        x: 1405
+        y: 440
+        width: 20
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: idleAtlas_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 10
+        width: 165
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: idleAtlas_4
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 10
+        width: 165
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: idleAtlas_5
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 10
+        width: 165
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: idleAtlas_6
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 0
+        width: 255
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

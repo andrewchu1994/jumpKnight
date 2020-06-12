@@ -1,0 +1,157 @@
+fileFormatVersion: 2
+guid: 35c528d5d5ae4b64d812a0dc3eb794b8
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: poofAtlas_0
+    21300002: poofAtlas_1
+    21300004: poofAtlas_2
+    21300006: poofAtlas_3
+    21300008: poofAtlas_4
+    21300010: poofAtlas_5
+    21300012: poofAtlas_6
+    21300014: poofAtlas_7
+    21300016: poofAtlas_8
+    21300018: poofAtlas_9
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 120
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: poofAtlas_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2025
+        width: 675
+        height: 675
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: poofAtlas_1
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 2025
+        width: 675
+        height: 675
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: poofAtlas_2
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 2025
+        width: 675
+        height: 675
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: poofAtlas_3
+      rect:
+        serializedVersion: 2
+        x: 2025
+        y: 2025
+        width: 675
+        height: 675
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: poofAtlas_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1350
+        width: 675
+        height: 675
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: poofAtlas_5
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 1350
+        width: 675
+        height: 675
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: poofAtlas_6
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 1350
+        width: 675
+        height: 675
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: poofAtlas_7
+      rect:
+        serializedVersion: 2
+        x: 2025
+        y: 1350
+        width: 675
+        height: 675
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: poofAtlas_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 675
+        width: 675
+        height: 675
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: poofAtlas_9
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 675
+        width: 675
+        height: 675
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

@@ -1,0 +1,330 @@
+fileFormatVersion: 2
+guid: af3a3ed898b4e054e9c92d6b5b1f7e1c
+timeCreated: 1438929102
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: miniStuff_2
+    21300002: miniStuff_3
+    21300004: miniStuff_4
+    21300006: miniStuff_5
+    21300008: miniStuff_6
+    21300010: miniStuff_7
+    21300012: miniStuff_8
+    21300014: miniStuff_10
+    21300016: miniStuff_11
+    21300018: miniStuff_12
+    21300020: miniStuff_13
+    21300022: miniStuff_14
+    21300024: miniStuff_16
+    21300026: miniStuff_17
+    21300028: miniStuff_18
+    21300030: miniStuff_19
+    21300032: miniStuff_20
+    21300034: miniStuff_21
+    21300036: miniStuff_22
+    21300038: miniStuff_23
+    21300040: miniStuff_24
+    21300042: miniStuff_25
+    21300044: miniStuff_26
+    21300046: miniStuff_27
+    21300048: miniStuff_28
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 50
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: miniStuff_2
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 300
+        width: 88
+        height: 140
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: miniStuff_3
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 375
+        width: 45
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: miniStuff_4
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 360
+        width: 60
+        height: 20
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: miniStuff_5
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 340
+        width: 55
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: miniStuff_6
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 330
+        width: 55
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: miniStuff_7
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 350
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: miniStuff_8
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 300
+        width: 45
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: miniStuff_10
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 275
+        width: 45
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: miniStuff_11
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 285
+        width: 45
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: miniStuff_12
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 34
+        width: 128
+        height: 296
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: miniStuff_13
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 250
+        width: 55
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: miniStuff_14
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 265
+        width: 40
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: miniStuff_16
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 245
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: miniStuff_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 155
+        width: 78
+        height: 104
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: miniStuff_18
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 235
+        width: 40
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: miniStuff_19
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 215
+        width: 35
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: miniStuff_20
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 210
+        width: 35
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: miniStuff_21
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 205
+        width: 20
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: miniStuff_22
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 165
+        width: 35
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: miniStuff_23
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 175
+        width: 25
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: miniStuff_24
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 175
+        width: 50
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: miniStuff_25
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 125
+        width: 25
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: miniStuff_26
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 135
+        width: 50
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: miniStuff_27
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 130
+        width: 35
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: miniStuff_28
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 110
+        width: 30
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
